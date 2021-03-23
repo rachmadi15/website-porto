@@ -1,0 +1,76 @@
+body {
+	background: #929d9e;
+}
+
+.dasar {
+	position: absolute;
+	width: 1140px;
+	height: 550px;
+	left: 100px;
+	top: 48px;
+
+	background: #C4DFE6;
+	border-radius: 20px;
+}
+
+.a2 {
+	position: absolute;
+	font-family: Poppins;
+	top: 50px;
+}
+
+.dasar2 {
+	position: absolute;
+	width: 640px;
+	height: 553px;
+	background: #6BAABC;
+	border-radius: 20px;
+	left: 0px;
+	top: -65px;
+}
+
+.link-2 {
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 32px;
+	line-height: 54px;
+	text-align: center;
+
+	color: #000000;
+}
+
+.link-3 {
+	position: absolute;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 24px;
+	top: 450px;
+	left: 230px;
+	text-align: center;
+
+	color: #EB007F;
+}
+
+.btn-1 {
+	position: absolute;
+	left: 150px;
+	top: 420px;
+	border-radius: 5px;
+}
+
+
+.link-1 {
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 42px;
+	line-height: 42px;
+}
+
+
+.form-1 {
+	width: 350px;
+}

@@ -1,0 +1,51 @@
+body {
+	background: #929d9e;
+}
+
+.dasar {
+	position: absolute;
+	width: 1140px;
+	height: 550px;
+	left: 100px;
+	top: 48px;
+
+	background: #C4DFE6;
+	border-radius: 20px;
+}
+
+
+.logo1 {
+	position: absolute;
+	left: 20px;
+	top: -64px;
+	height: 550px;
+	width: 600px;
+	border-radius: 20px;
+}
+
+.btn-1 {
+	position: absolute;
+	left: 150px;
+	top: 340px;
+	border-radius: 5px;
+}
+
+.btn-2 {
+	position: absolute;
+	left: 120px;
+	top: 400px;
+}
+
+
+.link-1 {
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 42px;
+	line-height: 42px;
+}
+
+
+.form-1 {
+	width: 350px;
+}
